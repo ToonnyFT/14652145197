@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RECORD TV (SP) HD">
+    <display-name lang="pt">RECORD TV (SP) HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE TV (SP) HD">
+    <display-name lang="pt">REDE TV (SP) HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE VIDA HD">
+    <display-name lang="pt">REDE VIDA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT (PE) HD">
+    <display-name lang="pt">SBT (PE) HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV BRASIL FHD">
+    <display-name lang="pt">TV BRASIL FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV CULTURA HD">
+    <display-name lang="pt">TV CULTURA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV GAZETA HD">
+    <display-name lang="pt">TV GAZETA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV GLOBO (NE) FHD">
+    <display-name lang="pt">TV GLOBO (NE) FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE SUPER SD">
+    <display-name lang="pt">REDE SUPER SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CANÇÃO NOVA HD">
+    <display-name lang="pt">CANÇÃO NOVA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
